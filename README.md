@@ -1,5 +1,5 @@
 # dredd-demo
-Dredd demo for API testing
+[Dredd](https://dredd.org/en/latest/quickstart.html#advanced-examples) demo for API testing
 
 ## Install
 ```
