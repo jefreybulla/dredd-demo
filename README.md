@@ -19,3 +19,8 @@ npx dredd api-description.apib http://127.0.0.1:3000
 ```
 npx dredd
 ```
+## Github actions
+GH actions will check if Dredd tests are passing whenever there is a new push to main. Configuration of the workflow lives in
+```
+.github/workflows/pull-request.yml
+```
